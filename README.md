@@ -1,7 +1,8 @@
 # KNN
 K-nearest neighbors feature evaluation for Solr &amp; Elastic search engines
 
-KNN classificators based on Solr & Elastic built-in features. Extracts top K nearest neighbours documents from index.
+KNN classificators based on Solr & Elastic built-in features. 
+The goal is to extract top K nearest neighbours documents from index.
 
 Here is the structure of this project:
 
