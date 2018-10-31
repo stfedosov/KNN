@@ -1,7 +1,7 @@
 # KNN
 K-nearest neighbors feature evaluation for Solr &amp; Elastic search engines
 
-KNN classificators based on Solr & Elastic built-in features. 
+KNN-classifiers based on Solr & Elastic built-in features. 
 The goal is to extract top "K nearest neighbour" documents from index.
 
 Here is the structure of this project:
@@ -15,4 +15,4 @@ Utils.py - some useful utils like document conversion
 
 Main.py - main class to execute
 
-KClassifier.py - K classifier to extract top K documents from index from Solr and Elastic
+KClassifier.py - KNN-classifier to extract top K documents from index from Solr and Elastic
